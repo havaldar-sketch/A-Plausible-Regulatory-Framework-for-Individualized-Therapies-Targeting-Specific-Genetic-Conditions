@@ -1,10 +1,10 @@
 # Introduction 
 
-## Key terms and definitions 
+## Key Terms and Definitions 
 
 Although used interchangeably under the umbrella term “condition”, it is certainly crucial to first and foremost note the difference in the definitions of the terms: "disease”, "disorder", and “syndrome”. For accurate definitions, refer to the Medical Subject Headings (MeSH) thesaurus as hosted by the National Library of Medicine (NLM) at the National Center for Biotechnology Information (NCBI) (https://www.ncbi.nlm.nih.gov/mesh/). Likewise, it becomes necessary to note the technical considerations and differences while utilizing the term "therapy" in this paper as opposed to “drug”, “device”, “biologic”, or even “medical product”. It is worth defining new approach methodologies or non-clinical assessment models as “innovative, human-relevant tools—such as organ-on-a-chip platforms, organoids, and AI-driven computational modeling—designed to replace, reduce, or refine animal testing in safety, efficacy, and toxicity assessments”. 
 
-## Baseline considerations for genetic conditions from the regulatory lens 
+## Baseline Considerations for Genetic Conditions from The Regulatory Lens 
 
 While drafting a regulatory framework for the development, approval, and administration of individualized therapies, the nature of the genetic condition must also be considered. A genetic condition may be of known or unknown precedent and may be specific or non-specific in nature. This is dependent on the contributing genetic, cellular, or molecular abnormality for the particular genetic condition. The etiology for a genetic condition may be further classified as single-gene (monogenic), complex (multifactorial), chromosomal abnormalities, or acquired (somatic) mutations. Finally, the consideration of the lack of an appropriate sample or population size while attempting to devise an all-encompassing regulatory framework for individualized therapies targeting genetic conditions may also impact the availability of convincing safety and efficacy data at regulatory submission. Such circumstances may be dependent on the well-characterized natural history of the disease if the genetic condition is of known precedent. However, in circumstances where the genetic condition is of unknown precedent, subsequent confirmatory trials may be required post regulatory submission. 
 
