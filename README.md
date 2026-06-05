@@ -1,10 +1,10 @@
-#Regulatory Framework and Requirements 
+# Regulatory Framework and Requirements 
 
-##Code of Federal Regulations of relevance  
+## Code of Federal Regulations of relevance  
 
 While attempting to devise a plausible regulatory framework for the development, approval, and administration of individualized therapies targeting genetic conditions, Code of Federal Regulations (CFR, https://www.ecfr.gov/) of relevance must be noted (Table 3). Considering the Code of Federal Regulations in the table, it is certainly worth mentioning 21 CFR § 312.80-312.88 for drugs intended to treat life-threatening and severely debilitating illnesses. Considering the possibility of a limited sample size or population while intending to treat certain genetic conditions, 21 CFR § 314.92-314.99 for abbreviated new drug applications and 21 CFR § 316.10-316.52 for orphan drugs must certainly be mentioned. The Code of Federal Regulation for the expanded access to investigational drugs for treatment use, i.e. 21 CFR § 312.300-312.320 should lastly be mentioned for the use of investigational new drugs where an appropriate risk evaluation and mitigation strategy (REMS) is unavailable. Lastly, 21 CFR § 892.2050 for medical image management and processing systems might also be necessary. 
 
-##The Guidance Document Search and noteworthy FDA Guidance Documents 
+## The Guidance Document Search and noteworthy FDA Guidance Documents 
 
 The Guidance Document Search as available on the FDA website (https://www.fda.gov/regulatory-information/search-fda-guidance-documents) leads one to consider enlisted guidance documents of relevance while attempting to devise an appropriate regulatory framework for the development, approval, and administration of individualized therapies targeting genetic conditions. Furthermore, it becomes necessary to refer to pre-existing guidance documents along with their relevance for the development of a plausible regulatory framework for individualized therapies targeting genetic conditions (Table 4). 
 
