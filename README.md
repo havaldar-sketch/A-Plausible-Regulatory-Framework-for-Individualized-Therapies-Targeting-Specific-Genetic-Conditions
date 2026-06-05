@@ -2,7 +2,7 @@
 
 | ID | Reference |
 |---|---|
-| [1] | Arunagiri T, Kannaiah KP, Vasanthan M. Enhancing Pharmaceutical Product Quality with a Comprehensive Corrective and Preventive Actions (CAPA) Framework: From Reactive to Proactive. Cureus. 2024;16(9). doi:https://doi.org/10.7759/cureus.69762 |
+| [1] | Arunagiri T, Kannaiah KP, Vasanthan M. Enhancing Pharmaceutical Product Quality with a Comprehensive Corrective and Preventive Actions (CAPA) Framework: From Reactive to Proactive. Cureus. 2024;16(9). https://doi.org/10.7759/cureus.69762 |
 | [2] | Assessing the Credibility of Computational Modeling and Simulation in Medical Device Submissions. United States Food and Drug Administration. November 16, 2023. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/assessing-credibility-computational-modeling-and-simulation-medical-device-submissions |
 | [3] | CellxGene Data Portal. Chan Zuckerberg CELL by GENE Discover (CZ CELLxGENE Discover). https://cellxgene.cziscience.com/ |
 | [4] | ClinVar. National Library of Medicine. https://www.ncbi.nlm.nih.gov/clinvar/ |
