@@ -1,0 +1,24 @@
+Table 5. Relevant International Council for Harmonization of Technical Requirements for Pharmaceuticals for Human Use (ICH) Guidelines,,,,,
+ICH Efficacy (E) Guidelines,,ICH Safety (S) Guidelines,,ICH Multidisciplinary (M) Guidelines,
+E1,Population Exposure (Clinical safety for long-term drug use),S1A – S1C,Carcinogenicity Studies (Testing for cancer-causing potential),M1,MedDRA – MedDRA Terminology
+E2A – E2F,Pharmacovigilance & Clinical Safety Data Management,S2,Genotoxicity Testing (Evaluating potential DNA damage),M2,Electronic Standards
+E3,Structure and Content of Clinical Study Reports,S3A – S3B,Toxicokinetics and Pharmacokinetics (Assessing systemic drug exposure),M3,Nonclinical Safety Studies
+E4,Dose-Response Information,S4,Toxicity Testing (Duration protocols for rodent and non-rodent testing),M4,Common Technical Document
+E5,Ethnic Factors in the Acceptability of Foreign Clinical Data,S5,Reproductive and Developmental Toxicology (Assessing risks to fertility and embryo health),M5,Data Elements and Standards for Drug Dictionaries
+E6,Good Clinical Practice (GCP),S6,Preclinical Safety Evaluation of Biotechnology-Derived Pharmaceuticals,M6,Gene Therapy
+E7,Studies in Support of Special Populations: Geriatrics,S7A – S7B,Safety Pharmacology Studies (Testing physiological effects on vital organ systems),M7,Mutagenic Impurities
+E8,General Considerations for Clinical Studies,S8,Immunotoxicology Studies (Identifying potential adverse immune system impacts),M8,Electronic Common Technical Document (eCTD)
+E9,Statistical Principles for Clinical Trials,S9,Nonclinical Evaluation for Anticancer Pharmaceuticals,M9,Biopharmaceutics Classification System-based Biowaivers
+E10,Choice of Control Group in Clinical Trials,S10,Photosafety Evaluation (Evaluating light-induced skin toxicity),M10,Bioanalytical Method Validation and Study Sample Analysis
+E11 – E11A,Clinical Investigation of Medicinal Products in the Pediatric Population,S11,Nonclinical Safety Testing in Pediatric Medicines,M11,Clinical Electronic Structured Harmonized Protocol (CeSHarP)
+E12,Clinical Evaluation by Therapeutic Category,S12,Nonclinical Biodistribution Considerations for Gene Therapy Products,M12,Drug Interaction Studies
+E14,Clinical Evaluation of QT/QTc Interval Prolongation,S13,Nonclinical Safety Studies for Oligonucleotide-Based Therapeutics,M13,Bioequivalence for Immediate-Release Solid Oral Dosage Forms
+E15,"Definitions for Genomic Biomarkers, Pharmacogenomics, and Pharmacogenetics",,,M14,Use of Real-world Data for Safety Assessment of Medicines
+E16,Qualification of Genomic Biomarkers,,,M15,General Principles for Model-informed Drug Development
+E17,General Principles for Planning/Design of Multi-Regional Clinical Trials,,,M16,Structured Product Quality Submissions
+E18,Genomic Sampling and Management of Genomic Data,,,M18,Framework for Determining the Utility of Comparative Efficacy Studies in Biosimilar Development Programs
+E19,Optimization of Safety Data Collection,,,,
+E20,Adaptive Designs for Clinical Trials,,,,
+E21,Inclusion of Pregnant and Breastfeeding Individuals in Clinical Trials,,,,
+E22,General Considerations for Patient Preference Studies,,,,
+E23,Use of Real-World Evidence (RWE) to Inform Regulatory Decisions,,,,

@@ -1,0 +1,8 @@
+Table 7. Regulatory Considerations for Integration of Fast Healthcare Interoperability Resources (FHIR) and Digital Imaging and Communication in Medicine (DICOM),,
+Feature,Fast Healthcare Interoperability Resources (FHIR),Digital Imaging and Communication in Medicine (DICOM)
+Primary Focus,Text-based clinical and administrative records,"Medical images, waveforms, and rich metadata"
+Data Format,"JSON, XML, and RDF",Binary files containing pixel data and a header
+System Host,Electronic Health Records (EHR) systems,Picture Archiving and Communication Systems (PACS)
+Core Entity,"Resources (e.g., Patient, Observation, Encounter)","IODs (Information Object Definitions like CT, MR, US)"
+Protocol,"Native HTTP RESTful APIs (GET, POST, PUT, DELETE)",Traditional TCP C-STORE/C-FIND (and modern DICOMweb)
+Payload Size,Small text files (Kilobytes),Large binary files (Megabytes to Gigabytes)
